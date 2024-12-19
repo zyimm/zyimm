@@ -1,7 +1,4 @@
-# Hi there, I'm zyimm! 👋
-
-## About Me
-
+## 👋 About Me
 
 I'm a passionate developer with a love for coding and continuously learning new technologies. I enjoy working on various projects and contributing to open-source communities.
 
