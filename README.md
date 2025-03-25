@@ -2,36 +2,6 @@
 
 I'm a passionate developer with a love for coding and continuously learning new technologies. I enjoy working on various projects and contributing to open-source communities.
 
-- 🔭 I’m currently working on [,,,,]
-- 🌱 I’m currently learning [rust]
-- 🤔 I’m looking for help with [...]
-- 💬 Ask me about [Wake Me Up When September Ends.](https://www.zyimm.com/)
-- 📫 How to reach me: [zyimm@qq.com]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About Yourself]
-
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |==========='
-```
-
 ## GitHub Stats
 
 ![zyimm's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyimm&show_icons=true&theme=radical)
